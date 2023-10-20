@@ -7,10 +7,11 @@ public class printer {
 		int age = 38;
 		String name;
 		name = "Ruwani";
-		
+		// printing age
 		System.out.println(age);
 		
      	System.out.println("My name is");
+     	// Printing name
 		System.out.println(name);
 	
 		System.out.println("My name is " + name);
@@ -26,7 +27,7 @@ public class printer {
 		number--;
 		
 		double result;
-		
+		// Calculating the result
 		result = number / 3.3;
 		
 		System.out.println(result);
