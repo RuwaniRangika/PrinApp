@@ -33,7 +33,7 @@ public class printer {
 		System.out.println(result);
 		
 		System.out.printf("The result is %.2f \n\n", result);
-		
+		// Printing all details
 		System.out.printf("My name is %s and I am %d years old.",name,age);
 
 
